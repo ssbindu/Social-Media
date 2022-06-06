@@ -1,0 +1,24 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "A social media app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "followers"
+  ],
+  "author": "Shithi Sharma Bindu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
